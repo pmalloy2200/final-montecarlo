@@ -1,0 +1,7 @@
+unset key
+set style data line
+
+set term png
+set o "v5n.png"
+
+p  [0:9] [0:] "mc" u 1:2

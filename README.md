@@ -12,5 +12,7 @@ calculated volume is less than .03.
 Plots a graph of volume of the superellipsoid versus 
 the superellipsoid paramater *n*. 
 
-### V5(n): Volume of superellipsoids
+#### V5(n): Volume of superellipsoids
+![V5(n)]
+(https://raw.githubusercontent.com/pmalloy2200/final-montecarlo/master/v5n.png)
 
